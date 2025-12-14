@@ -22,4 +22,6 @@ Sur la galaxie M51, la méthode par Ondelettes surclasse le filtre Gaussien en p
 
 1. Cloner le repo :
 ```bash
-git clone [https://github.com/ton-user/nom-du-repo.git](https://github.com/ton-user/nom-du-repo.git)
+git clone [https://github.com/ZineAidoud/Projet_Debruitage_Astro
+.git](https://github.com/ZineAidoud/Projet_Debruitage_Astro
+.git)
