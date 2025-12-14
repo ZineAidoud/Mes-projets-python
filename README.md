@@ -13,7 +13,7 @@ Ce projet implémente un pipeline complet de traitement d'images astronomiques v
 ## 📊 Résultats Clés
 Sur la galaxie M51, la méthode par Ondelettes surclasse le filtre Gaussien en préservant les bras spiraux.
 
-![Comparaison M51](comparatif_M51.jpg)
+![Comparaison M51](comparatif_M51.png)
 
 * **Gain structurel (SSIM) :** +0.31 (Passage de 0.38 à 0.69).
 * **Détails :** Les étoiles faibles et la granulosité sont conservées.
