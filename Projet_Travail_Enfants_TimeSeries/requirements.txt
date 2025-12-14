@@ -1,6 +1,10 @@
 pandas
-numpy
+numpy==1.26.4
 matplotlib
 seaborn
+statsmodels
 scikit-learn
-openpyxl
+pmdarima
+ruptures
+influxdb-client
+
