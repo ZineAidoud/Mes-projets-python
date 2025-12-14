@@ -1,3 +1,18 @@
+"""
+=============================================================================
+TITRE : Débruitage d'Images Astronomiques (Starlet Transform vs Gaussien)
+AUTEUR : Zine Elabidine AIDOUD
+FORMATION : Master 2 Ingénierie Mathématique et Data Science (UHA)
+DATE : Décembre 2025
+
+DESCRIPTION :
+Pipeline complet de traitement d'images (FITS) incluant :
+1. Acquisition via CDS Strasbourg (Hips2Fits)
+2. Simulation de bruit (Poisson + Gaussien)
+3. Algorithme de débruitage par Ondelettes à Trous (Starlet) + Anscombe
+4. Comparaison avec filtre Gaussien et calcul métriques (SSIM, PSNR)
+=============================================================================
+"""
 # Imports pour le "Pipeline Strasbourg"
 from astroquery.hips2fits import hips2fits  # Le générateur d'images du CDS
 from astropy.coordinates import SkyCoord    # Pour gérer les positions
