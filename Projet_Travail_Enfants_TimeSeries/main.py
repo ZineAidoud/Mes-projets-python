@@ -1,9 +1,9 @@
 """
 =============================================================================
 TITRE : Analyse et Clustering du Travail des Enfants (K-Means & Time Series)
-AUTEUR : Zine Elabidine AIDOUD & Mohamed Abdelmouiz ARHAB
+AUTEUR : Zine Elabidine AIDOUD & Rayane Hocine ARHAB
 PROJET : Master 1 - Data Mining & Séries Temporelles
-DATE : Mai 2024
+DATE : Mai 2025
 
 DESCRIPTION :
 Ce script analyse les données de l'OIT (ILO) pour segmenter les pays selon 
