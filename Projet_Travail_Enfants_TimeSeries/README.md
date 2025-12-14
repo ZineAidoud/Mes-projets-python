@@ -4,7 +4,7 @@
 Ce projet vise à analyser les dynamiques mondiales du travail des enfants en utilisant des techniques de **Data Mining** non supervisées. 
 À partir des données de l'OIT (Organisation Internationale du Travail), nous identifions des groupes de pays aux comportements similaires pour orienter les politiques publiques.
 
-**Contexte :** Projet Master 1 - Module "Data Mining & Séries Temporelles".
+**Contexte :** Projet Master 1
 
 ## 🛠 Méthodologie
 1. **ETL & Preprocessing :** - Nettoyage des données brutes.
